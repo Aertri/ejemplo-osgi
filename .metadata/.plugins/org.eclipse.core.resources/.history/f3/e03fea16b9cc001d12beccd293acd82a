@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Simple Shape Implementation
+Bundle-SymbolicName: org.foo.shape.impl
+Bundle-Version: 1.0.0
+Automatic-Module-Name: org.foo.shape.impl
+Bundle-RequiredExecutionEnvironment: JavaSE-11

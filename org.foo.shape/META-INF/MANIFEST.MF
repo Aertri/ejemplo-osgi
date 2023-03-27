@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Paint Api
+Bundle-SymbolicName: org.foo.shape
+Bundle-Version: 1.0.0
+Automatic-Module-Name: org.foo.shape
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Import-Package: javax.swing
+Export-Package: org.foo.shape

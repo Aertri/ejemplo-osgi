@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Simple Paint Program
+Bundle-SymbolicName: org.foo.paint
+Bundle-Version: 1.0.0
+Automatic-Module-Name: org.foo.paint
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Import-Package: javax.swing,
+ org.foo.shape,
+ org.foo.shape.impl,
+ org.osgi.framework;version="1.10.0"
